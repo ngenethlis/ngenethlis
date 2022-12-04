@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ngenethlis
 - 👀 I’m interested in AI, quantum-computing and all things compsci and software engineering related
-- 🌱 I’m currently learning C,Python,Java
+- 🌱 I’m currently learning C,Python.Haskell
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
